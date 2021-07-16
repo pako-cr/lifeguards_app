@@ -11,5 +11,5 @@ final Map<String, Widget Function(BuildContext)> appRoutes = {
   'signup': (_) => SignUpPage(),
   'splash': (_) => SplashPage(),
   'home': (_) => HomePage(),
-  'reports': (_) => ReportsPage(),
+  'reports': (_) => ReportsPage()
 };
